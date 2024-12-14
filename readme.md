@@ -45,8 +45,8 @@ Usage
 
 Clone the repository:
 ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <https://github.com/yashmittalz/Customer-Segmentation>
+    cd <https://github.com/yashmittalz/Customer-Segmentation>
 ```
 
 Install dependencies:
@@ -56,7 +56,7 @@ Install dependencies:
 
 Run the application:
 ```bash
-    python customer_segmentation.py
+    python main.py
 ```
 
 Follow the menu prompts to load data, preprocess, cluster, and visualize.
@@ -98,3 +98,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Developed by Yash Mittal. Version 1.0
 
+*Date Created: November 24, 2024*
+*Last updated: December 13, 2024*

@@ -45,8 +45,8 @@ Usage
 
 Clone the repository:
 ```bash
-    git clone <https://github.com/yashmittalz/Customer-Segmentation>
-    cd <https://github.com/yashmittalz/Customer-Segmentation>
+    git clone https://github.com/yashmittalz/Customer-Segmentation
+    cd 'Customer-Segmentation'
 ```
 
 Install dependencies:
